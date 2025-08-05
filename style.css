@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    
+  }
+
+  td {
+    border: 1px solid;
+    padding: 25px;
+  }
+
+  .LUDO-BOARD {
+    border: 30px solid pink;
+    text-align: center;
+    justify-self: center;
+    padding: 40px;
+    margin: 50px;
+    background-color: white;
+      
+
+  }
